@@ -2,4 +2,4 @@ server:
   port: 8080
 
 app:
-  remote: 'http://module1Service'
+  remote: 'http://module1-service'
